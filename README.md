@@ -36,7 +36,9 @@ Observe o carrinho de comprar após adicionar um produto. O número "1" aparece 
 2ª parte:
 Ao clicar no "X" do lado esquerdo de um produto no carrinho, nada acontece.
 O desafio é implementar as modificações necessárias para que um produto possa ser removido do carrinho.
+
 As regras de negócio são:
+
 	Apenas um produto pode ser removido por vez, por exemplo: se um cliente adicionou 2 pratos de macarrão, apenas um deles deve ser removido ao clicar no X.
 
 	Após remover um produto do carrinho, ele deve voltar ao estoque.
