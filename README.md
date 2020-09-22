@@ -31,7 +31,7 @@ Se isso aconter, o ambiente estará pronto para sua entrevista!
 A ideia aqui não é testar profundamente seu conhecimento em React ou Redux, mas sim simplesmente entender sua forma de pensar e sua abordagem ao problema. Não se preocupe, não esperamos que você termine todo o desafio no tempo da entrevista. Ao resolver, tente manter uma linha de raciocínio e sempre diga aos entrevistadores o que está pensando em fazer ou fazendo.
 
 1ª parte:
-Observe o carrinho de comprar após adicionar um produto. O número "1" aparece ao lado do nome do produto, independentemente de quantas vezes o produto em questão foi adicionado ao carrinho. O desafio aqui é tornar esse número dinâmico, representando quantas instâncias do mesmo produto estão no carrinho atualmente.
+Observe o carrinho de compras após adicionar um produto. O número "1" aparece ao lado do nome do produto, independentemente de quantas vezes o produto em questão foi adicionado ao carrinho. O desafio aqui é tornar esse número dinâmico, representando quantas instâncias do mesmo produto estão no carrinho atualmente.
 
 2ª parte:
 Ao clicar no "X" do lado esquerdo de um produto no carrinho, nada acontece.
