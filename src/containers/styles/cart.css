@@ -3,7 +3,7 @@
     width: 400px;
     background-color: #EA1D2C;
     border-radius: 1rem;
-    color: white;
+    color: blue;
 }
 
 h3.carrinho__titulo {
@@ -17,7 +17,7 @@ h3.carrinho__titulo {
 
 .carrinho__conteudo {
     margin: 1rem;
-    background-color: white;
+    background-color: grey;
     padding: 1rem;
     display: flex;
     flex-direction: column;
