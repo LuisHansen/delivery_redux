@@ -50,6 +50,6 @@ h3.lista_de_produtos__titulo {
 }
 
 .produto__adicionar.disabled {
-    background-color: gray;
+    background-color: blue;
     cursor: default;
 }
