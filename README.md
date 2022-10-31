@@ -4,7 +4,7 @@ Projeto base para entrevistas usando React, Redux e Enzyme como biblioteca de te
 
 ## Requerimentos de ambiente
 
-NodeJS > 12.0
+NodeJS > 15.0
 IDE ou editor opcional
 
 ## Configurando o ambiente
